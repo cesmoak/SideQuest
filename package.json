@@ -65,16 +65,6 @@
             "post-commit": "git update-index -g"
         }
     },
-    "prettier": {
-        "tabWidth": 4,
-        "printWidth": 132,
-        "semi": true,
-        "jsxBracketSameLine": true,
-        "parser": "typescript",
-        "singleQuote": true,
-        "useTabs": false,
-        "trailingComma": "es5"
-    },
     "dependencies": {
         "adbkit": "^2.11.1",
         "concurrently": "^4.1.0",
